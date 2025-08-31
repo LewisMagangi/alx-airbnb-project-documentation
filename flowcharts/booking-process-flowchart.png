@@ -1,0 +1,17 @@
+Placeholder for Property Booking Process Flowchart
+
+To create the actual flowchart:
+
+1. Visit https://app.diagrams.net/
+2. Create a new diagram
+3. Follow the detailed process steps outlined in the README.md file
+4. Use standard flowchart symbols:
+   - Ovals for Start/End
+   - Rectangles for Processes
+   - Diamonds for Decisions
+   - Parallelograms for Input/Output
+5. Create a comprehensive flowchart showing the complete property booking process
+6. Export as PNG with filename "booking-process-flowchart.png"
+7. Replace this placeholder file
+
+The flowchart should clearly show all decision points, error handling, and process flows for the property booking system.

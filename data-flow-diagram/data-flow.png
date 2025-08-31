@@ -1,0 +1,16 @@
+Placeholder for Data Flow Diagram
+
+To create the actual Data Flow Diagram:
+
+1. Visit https://app.diagrams.net/
+2. Create a new diagram
+3. Follow the instructions in the README.md file
+4. Create a comprehensive DFD showing:
+   - External entities (rectangles)
+   - Processes (circles, numbered 1.0-7.0)
+   - Data stores (open rectangles)
+   - Data flows (labeled arrows)
+5. Export as PNG with filename "data-flow.png"
+6. Replace this placeholder file
+
+The diagram should clearly show how data moves through the entire Airbnb Clone system.
